@@ -1,0 +1,10 @@
+[2025-08-03 10:01:21] Added item: Laptop
+[2025-08-03 10:01:21] Added item: Mouse
+[2025-08-03 10:01:21] Added item: Keyboard
+[2025-08-03 10:01:21] Added item: Monitor
+[2025-08-03 10:01:21] Added item: Webcam
+[2025-08-03 10:01:21] Updated stock of Laptop to 8
+[2025-08-03 10:01:21] Updated stock of Mouse to 95
+[2025-08-03 10:01:21] Updated price of Mouse to ₱240
+[2025-08-03 10:01:21] Updated price of Webcam to ₱1400
+[2025-08-03 10:01:21] Deleted item: Keyboard
